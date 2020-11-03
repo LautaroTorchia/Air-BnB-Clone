@@ -1,3 +1,19 @@
+# Air-BnB clone
+
+Description: This is a sem-static Air-BnB webpage, without dynamic display of information but with many great functionalities like:
+
+-Date Picker ---> With 'react-date-range' library
+
+-Animations ---> CSS animations
+
+-Navigation ---> With React-router
+
+
+Technologies:
+
+-JavaScript -React JS -React-Router -Material UI library (With Material UI Icons) -CSS/Flexbox
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
