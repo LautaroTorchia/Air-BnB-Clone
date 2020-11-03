@@ -9,7 +9,7 @@ Description: This is a sem-static Air-BnB webpage, without dynamic display of in
 -Navigation ---> With React-router
 
 
-Technologies:
+### Technologies:
 
 -JavaScript -React JS -React-Router -Material UI library (With Material UI Icons) -CSS/Flexbox
 
