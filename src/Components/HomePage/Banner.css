@@ -1,0 +1,39 @@
+.banner{
+    height: 50vh;
+    position: relative;
+    background-image: url('https://media.architecturaldigest.com/photos/5e333d3e6822ec000894a506/master/w_1600%2Cc_limit/Airbnb_TS650_MReed_03%252520(1).jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+.banner__search{
+    display: flex;
+    flex-direction: column;
+}
+.banner__searchbtn{
+    background-color: white !important;
+    color:#ff7779 !important;
+    font-weight: 900 !important;
+    text-transform: inherit !important; 
+}
+
+.banner__info{
+    background-color: black;
+    color: white;
+    padding-top: 25vh;
+    padding-bottom: 40px;
+    padding-right: 50px;
+    padding-left: 50px;
+    width: 300px;
+}
+.banner__info > button{
+    background-color: #ff7779;
+    color: white;
+    text-transform: inherit;
+    margin-top: 20px;
+    font-weight: 600;
+}
+.banner__info > button:hover{
+    background-color: white;
+    color:#ff7779;
+}
